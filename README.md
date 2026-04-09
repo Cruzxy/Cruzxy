@@ -2,12 +2,12 @@
 
 **Estudante de Engenharia de Software | Desenvolvedor Lua, JavaScript & Python**
 
-Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir soluções eficientes através da programação. Estou em constante evolução, buscando sempre aplicar as melhores práticas de desenvolvimento.
+Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir soluções eficientes através da programação. Estou em constante evolução, buscando aplicar as melhores práticas de desenvolvimento.
 
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Estudante de **Engenharia de Software**.
-- 🌱 Aprofundando meus conhecimentos e focado nos estudos de **Lua**, **JavaScript/TypeScript** e **Python**.
+- 🌱 Aprofundando meus conhecimentos e focado nos estudos de **JavaScript/TypeScript**, **Lua** e **Python**.
 - 📫 Como entrar em contato: [joaoarthurferroecruz@gmail.com](mailto:joaoarthurferroecruz@gmail.com)
 
 ---
@@ -28,6 +28,6 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir sol
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cruzxy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cruzxy&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Cruzxy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cruzxy&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
