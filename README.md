@@ -29,8 +29,8 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir sol
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
