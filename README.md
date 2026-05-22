@@ -28,6 +28,9 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir sol
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Cruzxy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cruzxy&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cruzxy&theme=github_dark" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cruzxy&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cruzxy&theme=github_dark" />
 </div>
