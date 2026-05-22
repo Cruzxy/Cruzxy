@@ -22,15 +22,3 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir sol
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
----
-
-### 🐍 Meus Commits
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation eating my GitHub contributions" src="dist/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
