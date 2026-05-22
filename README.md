@@ -25,12 +25,12 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e focado em construir sol
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Meus Commits
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cruzxy&theme=github_dark" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cruzxy&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cruzxy&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Cruzxy/Cruzxy/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
